@@ -1,0 +1,61 @@
+<html>
+    
+    <head>
+       	<link rel="stylesheet" href="themes/walletTheme.min.css" />
+    	<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+		<link rel="stylesheet" href="themes/jquery.mobile.structure-1.4.0.min.css" />
+    	<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen, print"/> 
+        
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+        
+        <title>Scandit SDK</title>
+    </head>
+    <body>
+    <!-- Preloader -->
+	<div id="preloader">
+	<div id="status">&nbsp;</div>
+	</div>
+     
+    <div data-role="page" id="index">
+
+	<div data-role="header" data-position="fixed">
+		<h1>LaPS App</h1>
+	</div>
+	<div data-role="content">	
+       	<div style="text-align:center"><img width="150px" id="pay" src="img/taptopay.png"></div> 
+        <div id="carousel"></div>
+        <a href="cardsChange.html" id="card" rel="external" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Change Card</a>
+        <a href="useCoupon.html" rel="external" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Use a coupon</a>
+    	<a href="#" id="back" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Back</a>    
+	</div>
+
+	<div data-role="footer" data-position="fixed"><h1></h1></div>
+	</div>
+
+	<!-- jQuery Plugin -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+
+	<!-- Preloader -->
+	<script type="text/javascript">
+	//<![CDATA[
+		$(window).load(function() { // makes sure the whole site is loaded
+			$('#status').fadeOut(); // will first fade out the loading animation
+			$('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+			$('body').delay(350).css({'overflow':'visible'});
+		})
+	//]]>
+	</script>     
+		
+
+     <<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script src="js/jquery.mobile-1.4.0.min.js"></script>
+	<script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/pay.js"></script>
+    <script type="text/javascript">
+	app.initialize();   
+	</script>    
+	  
+      
+       
+    </body>
+</html>

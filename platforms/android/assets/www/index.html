@@ -1,0 +1,93 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+    
+    <title>Page Title</title>
+   	<meta name="viewport" content="width=device-width, user-scalable=no" />
+    <link rel="stylesheet" href="css/index.css"> 
+	<link rel="stylesheet" href="themes/walletTheme.min.css" />
+    <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+	<link rel="stylesheet" href="themes/jquery.mobile.structure-1.4.0.min.css" />
+    <link rel="stylesheet" href="css/styles.css" type="text/css" media="screen, print"/> 
+     
+	</head> 
+	<body> 
+    <!-- Preloader -->
+	<div id="preloader">
+	<div id="status">&nbsp;</div>
+	</div>
+
+<!-- INDEX -->
+<div data-role="page" id="index">
+
+	<div data-role="header" data-position="fixed">
+		<h1>LaPS App</h1>
+	</div>
+
+	<div data-role="content">	
+		<a href="coupons.html" id="coupons" rel="external" data-transition="fade" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Coupons</a>
+        <a href="cards.html" id="cards" rel="external" data-transition="fade" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Cards</a>
+        <!-- <a href="productFar.html?id=1" rel="external" id="far" data-transition="none" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Far from the shop</a>
+        <a href="productNear.html?id=3" id="near" rel="external" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Near the shop</a>
+        <a href="productInside.html?id=1" id="inside" rel="external" class="ui-btn ui-icon-arrow-r ui-btn-icon-left ui-corner-all">Inside the shop</a>
+        -->
+        
+	</div>
+
+	<div data-role="footer" data-position="fixed"><h1></h1></div>
+</div>
+
+	<!-- jQuery Plugin -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+
+	<!-- Preloader -->
+	<script type="text/javascript">
+	//<![CDATA[
+		$(window).load(function() { // makes sure the whole site is loaded
+			$('#status').fadeOut(); // will first fade out the loading animation
+			$('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+			$('body').delay(350).css({'overflow':'visible'});
+		})
+	//]]>
+	</script> 
+
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script src="js/jquery.mobile-1.4.0.min.js"></script>
+	<script type="text/javascript" src="cordova.js"></script>
+    
+    <script type="text/javascript">
+	
+	function loadScript(url, callback){
+
+    var script = document.createElement("script")
+    script.type = "text/javascript";
+
+    if (script.readyState){  //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                script.onreadystatechange = null;
+                callback();
+            }
+        };
+    } else {  //Others
+        script.onload = function(){
+            callback();
+        };
+    }
+
+    script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+	}
+	
+	loadScript("js/idangerous.swiper.js", function(){
+		loadScript("js/index.js", function(){
+			app.initialize();     		 
+		});
+	});
+	</script>
+
+      
+
+</body>
+</html>

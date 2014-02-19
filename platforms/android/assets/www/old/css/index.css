@@ -1,0 +1,56 @@
+.topDiv{
+	width: 100%;
+    background-color: #C0C0C0;
+    color: White;
+    text-align: center;
+    
+	font-family: "Helvetica Neue Thin", "Helvetica Neue UltraLight", "Helvetica Neue Medium", "Helvetica Neue Light", "Helvetica Neue";
+	font-size: 20px;
+	height: 64px;
+	overflow:hidden;
+	float:left;
+	clear:both;
+}
+
+.bottomDiv{
+	width: 100%;
+    background-color: #C0C0C0;
+    height: 49px;
+    position:absolute;
+    bottom: 0;
+    color: White;
+}
+
+#parent {
+	
+}
+
+#pageDiv {
+	position:absolute;
+	top:0px;
+	height:640px;
+	width:360px;
+	overflow: hidden;
+}
+
+#centerDiv {
+	width:360px;
+    height:527px;
+	float:left;
+	clear:both;
+    
+}
+
+#content {
+	text-align:center;
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
+.left {
+	float: left;
+	width: 50%;
+	text-align:right;
+}

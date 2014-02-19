@@ -1,0 +1,155 @@
+2013-11-26 21:52:20.769 barcode[21061:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 21:52:21.127 barcode[21061:80b] Unlimited access to network resources
+2013-11-26 21:52:24.246 barcode[21061:80b] Resetting plugins due to page load.
+2013-11-26 21:52:25.159 barcode[21061:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-26 21:52:28.324 barcode[21061:80b] ERROR: Plugin 'ScanditSDK' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-11-26 21:52:28.325 barcode[21061:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "ScanditSDK360407202",
+  "ScanditSDK",
+  "scan",
+  [
+    "apUI4lbZEeObF0YzVzElo\/BeyCxmtFI+ZFg7yrQ\/qLM",
+    {
+      "beep" : true,
+      "1DScanning" : true,
+      "2DScanning" : true
+    }
+  ]
+]
+2013-11-26 21:52:30.281 barcode[21061:80b] ERROR: Plugin 'ScanditSDK' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-11-26 21:52:30.281 barcode[21061:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "ScanditSDK360407203",
+  "ScanditSDK",
+  "scan",
+  [
+    "apUI4lbZEeObF0YzVzElo\/BeyCxmtFI+ZFg7yrQ\/qLM",
+    {
+      "beep" : true,
+      "1DScanning" : true,
+      "2DScanning" : true
+    }
+  ]
+]
+2013-11-26 22:05:34.964 barcode[22111:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 22:05:35.456 barcode[22111:80b] Unlimited access to network resources
+2013-11-26 22:05:44.701 barcode[22111:80b] Resetting plugins due to page load.
+2013-11-26 22:05:46.005 barcode[22111:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-26 22:05:49.268 barcode[22111:80b] ERROR: Plugin 'ScanditSDK' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-11-26 22:05:49.269 barcode[22111:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "ScanditSDK171635488",
+  "ScanditSDK",
+  "scan",
+  [
+    "apUI4lbZEeObF0YzVzElo\/BeyCxmtFI+ZFg7yrQ\/qLM",
+    {
+      "beep" : true,
+      "1DScanning" : true,
+      "2DScanning" : true
+    }
+  ]
+]
+2013-11-26 22:05:52.129 barcode[22111:80b] ERROR: Plugin 'ScanditSDK' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-11-26 22:05:52.129 barcode[22111:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "ScanditSDK171635489",
+  "ScanditSDK",
+  "scan",
+  [
+    "apUI4lbZEeObF0YzVzElo\/BeyCxmtFI+ZFg7yrQ\/qLM",
+    {
+      "beep" : true,
+      "1DScanning" : true,
+      "2DScanning" : true
+    }
+  ]
+]
+2013-11-26 22:05:53.723 barcode[22111:80b] ERROR: Plugin 'ScanditSDK' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-11-26 22:05:53.758 barcode[22111:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "ScanditSDK171635490",
+  "ScanditSDK",
+  "scan",
+  [
+    "apUI4lbZEeObF0YzVzElo\/BeyCxmtFI+ZFg7yrQ\/qLM",
+    {
+      "beep" : true,
+      "1DScanning" : true,
+      "2DScanning" : true
+    }
+  ]
+]
+2013-11-26 22:05:54.875 barcode[22111:80b] ERROR: Plugin 'ScanditSDK' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-11-26 22:05:54.876 barcode[22111:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "ScanditSDK171635491",
+  "ScanditSDK",
+  "scan",
+  [
+    "apUI4lbZEeObF0YzVzElo\/BeyCxmtFI+ZFg7yrQ\/qLM",
+    {
+      "beep" : true,
+      "1DScanning" : true,
+      "2DScanning" : true
+    }
+  ]
+]
+2013-11-26 22:06:03.798 barcode[22111:80b] ERROR: Plugin 'ScanditSDK' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-11-26 22:06:03.799 barcode[22111:80b] -[CDVCommandQueue executePending] [Line 127] FAILED pluginJSON = [
+  "ScanditSDK171635492",
+  "ScanditSDK",
+  "scan",
+  [
+    "apUI4lbZEeObF0YzVzElo\/BeyCxmtFI+ZFg7yrQ\/qLM",
+    {
+      "beep" : true,
+      "1DScanning" : true,
+      "2DScanning" : true
+    }
+  ]
+]
+2013-11-26 22:15:10.278 barcode[22871:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 22:15:10.923 barcode[22871:80b] Unlimited access to network resources
+2013-11-26 22:15:16.047 barcode[22871:80b] Resetting plugins due to page load.
+2013-11-26 22:15:16.928 barcode[22871:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-26 23:44:01.645 barcode[23766:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 23:44:01.788 barcode[23766:80b] Unlimited access to network resources
+2013-11-26 23:44:04.269 barcode[23766:80b] Resetting plugins due to page load.
+2013-11-26 23:44:05.089 barcode[23766:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-26 23:51:45.084 barcode[24513:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-26 23:51:45.236 barcode[24513:80b] Unlimited access to network resources
+2013-11-26 23:51:45.939 barcode[24513:80b] Resetting plugins due to page load.
+2013-11-26 23:51:46.778 barcode[24513:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-27 00:05:34.229 barcode[25315:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 00:05:34.828 barcode[25315:80b] Unlimited access to network resources
+2013-11-27 00:05:46.440 barcode[25315:80b] Resetting plugins due to page load.
+2013-11-27 00:05:47.014 barcode[25315:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-27 00:06:05.612 barcode[25315:80b] THREAD WARNING: ['Notification'] took '104.372070' ms. Plugin should use a background thread.
+2013-11-27 00:06:06.222 barcode[25315:80b] THREAD WARNING: ['Notification'] took '268.034180' ms. Plugin should use a background thread.
+2013-11-27 01:03:41.963 barcode[28926:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 01:03:42.341 barcode[28926:80b] Unlimited access to network resources
+2013-11-27 01:03:45.703 barcode[28926:80b] Resetting plugins due to page load.
+2013-11-27 01:03:46.270 barcode[28926:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-27 01:03:49.968 barcode[28926:80b] scanning
+2013-11-27 01:03:50.378 barcode[28926:80b] THREAD WARNING: ['ScanditSDK'] took '409.867920' ms. Plugin should use a background thread.
+2013-11-27 01:04:07.919 barcode[28926:80b] THREAD WARNING: ['Notification'] took '17.687988' ms. Plugin should use a background thread.
+2013-11-27 11:58:29.159 barcode[29977:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-27 11:58:29.539 barcode[29977:80b] Unlimited access to network resources
+2013-11-27 11:58:32.090 barcode[29977:80b] Resetting plugins due to page load.
+2013-11-27 11:58:32.647 barcode[29977:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-28 17:52:48.421 barcode[35393:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-28 17:52:48.642 barcode[35393:80b] Unlimited access to network resources
+2013-11-28 17:52:51.080 barcode[35393:80b] Resetting plugins due to page load.
+2013-11-28 17:52:51.489 barcode[35393:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-11-28 17:52:54.144 barcode[35393:80b] Resetting plugins due to page load.
+2013-11-28 17:52:55.373 barcode[35393:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/product.html
+2013-12-04 00:41:59.357 barcode[2258:80b] Multi-tasking -> Device: YES, App: YES
+2013-12-04 00:41:59.536 barcode[2258:80b] Unlimited access to network resources
+2013-12-04 00:42:06.412 barcode[2258:80b] Resetting plugins due to page load.
+2013-12-04 00:42:08.437 barcode[2258:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2013-12-04 00:42:25.620 barcode[2258:80b] Resetting plugins due to page load.
+2013-12-04 00:42:25.961 barcode[2258:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/product.html?id=1
+2014-01-05 21:55:23.924 barcode[10681:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-05 21:55:24.262 barcode[10681:80b] Unlimited access to network resources
+2014-01-05 21:55:27.554 barcode[10681:80b] Resetting plugins due to page load.
+2014-01-05 21:55:28.805 barcode[10681:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/index.html
+2014-01-05 21:55:30.635 barcode[10681:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-01-05 21:55:30.636 barcode[10681:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-01-05 21:55:30.639 barcode[10681:80b] Resetting plugins due to page load.
+2014-01-05 21:55:31.180 barcode[10681:80b] Finished load of: file:///Users/christianvismara/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1A059476-66B8-462A-B238-DC4DC5F6C27C/barcode.app/www/product.html?id=1

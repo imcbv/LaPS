@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.example.barcode.barcode { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.mirasense.scanditsdk.plugin.ScanditSDKActivity { <init>(...); }
+
